@@ -1,4 +1,4 @@
-module github.com/erda-project/erda-proto-go
+module github.com/hoozecn/erda-proto-go
 
 go 1.14
 
